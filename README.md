@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/skills/main/.github/assets/thumbnail.png" alt="skills" width="100%">
+</p>
+
 # Emberlamp Skills
 
 Repository for storing agent capabilities and CLI extensions for emberlamp.
