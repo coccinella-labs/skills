@@ -1,6 +1,6 @@
 # CLI Commands
 
-Custom emberlamp CLI commands and extensions.
+Custom coccinella-labs CLI commands and extensions.
 
 ## Available Commands
 
