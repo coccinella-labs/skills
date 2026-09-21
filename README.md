@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Coccinella-Labs/skills/main/.github/assets/thumbnail.png" alt="skills" width="100%">
 </p>
 
-# Emberlamp Skills
+# Coccinella Labs Skills
 
-Repository for storing agent capabilities and CLI extensions for emberlamp.
+Repository for storing agent capabilities and CLI extensions for coccinella-labs.
 
 ## Structure
 
@@ -14,5 +14,5 @@ Repository for storing agent capabilities and CLI extensions for emberlamp.
 ## Usage
 
 This repo is used by:
-- emberlamp/swe-agent - For agent capabilities
-- emberlamp/cli - For CLI extensions
+- coccinella-labs/swe-agent - For agent capabilities
+- coccinella-labs/cli - For CLI extensions
